@@ -80,11 +80,11 @@ const App = () => {
             value={r1}
             onChange={(e) => setR1(e.target.value)}
           >
-            <option value="1.0">매우 그렇다</option>
-            <option value="2.0">그렇다</option>
-            <option value="3.0">보통이다</option>
-            <option value="4.0">아니다</option>
-            <option value="5.0">전혀 아니다</option>
+            <option value={1.0}>매우 그렇다</option>
+            <option value={2.0}>그렇다</option>
+            <option value={3.0}>보통이다</option>
+            <option value={4.0}>아니다</option>
+            <option value={5.0}>전혀 아니다</option>
           </select>
         </label>
         <br />
@@ -94,11 +94,11 @@ const App = () => {
             value={r2}
             onChange={(e) => setR2(e.target.value)}
           >
-            <option value="1.0">매우 그렇다</option>
-            <option value="2.0">그렇다</option>
-            <option value="3.0">보통이다</option>
-            <option value="4.0">아니다</option>
-            <option value="5.0">전혀 아니다</option>
+            <option value={1.0}>매우 그렇다</option>
+            <option value={2.0}>그렇다</option>
+            <option value={3.0}>보통이다</option>
+            <option value={4.0}>아니다</option>
+            <option value={5.0}>전혀 아니다</option>
           </select>
         </label>
         <br />
@@ -109,11 +109,11 @@ const App = () => {
             value={r3}
             onChange={(e) => setR3(e.target.value)}
           >
-            <option value="1.0">매우 그렇다</option>
-            <option value="2.0">그렇다</option>
-            <option value="3.0">보통이다</option>
-            <option value="4.0">아니다</option>
-            <option value="5.0">전혀 아니다</option>
+            <option value={1.0}>매우 그렇다</option>
+            <option value={2.0}>그렇다</option>
+            <option value={3.0}>보통이다</option>
+            <option value={4.0}>아니다</option>
+            <option value={5.0}>전혀 아니다</option>
           </select>
         </label>
         <br />
@@ -123,11 +123,11 @@ const App = () => {
             value={r4}
             onChange={(e) => setR4(e.target.value)}
           >
-            <option value="1.0">매우 그렇다</option>
-            <option value="2.0">그렇다</option>
-            <option value="3.0">보통이다</option>
-            <option value="4.0">아니다</option>
-            <option value="5.0">전혀 아니다</option>
+            <option value={1.0}>매우 그렇다</option>
+            <option value={2.0}>그렇다</option>
+            <option value={3.0}>보통이다</option>
+            <option value={4.0}>아니다</option>
+            <option value={5.0}>전혀 아니다</option>
           </select>
         </label>
         <br />
@@ -138,11 +138,11 @@ const App = () => {
             value={r5}
             onChange={(e) => setR5(e.target.value)}
           >
-            <option value="1.0">매우 그렇다</option>
-            <option value="2.0">그렇다</option>
-            <option value="3.0">보통이다</option>
-            <option value="4.0">아니다</option>
-            <option value="5.0">전혀 아니다</option>
+            <option value={1.0}>매우 그렇다</option>
+            <option value={2.0}>그렇다</option>
+            <option value={3.0}>보통이다</option>
+            <option value={4.0}>아니다</option>
+            <option value={5.0}>전혀 아니다</option>
           </select>
         </label>
         <br />
@@ -152,11 +152,11 @@ const App = () => {
             value={r6}
             onChange={(e) => setR6(e.target.value)}
           >
-            <option value="1.0">매우 그렇다</option>
-            <option value="2.0">그렇다</option>
-            <option value="3.0">보통이다</option>
-            <option value="4.0">아니다</option>
-            <option value="5.0">전혀 아니다</option>
+            <option value={1.0}>매우 그렇다</option>
+            <option value={2.0}>그렇다</option>
+            <option value={3.0}>보통이다</option>
+            <option value={4.0}>아니다</option>
+            <option value={5.0}>전혀 아니다</option>
           </select>
         </label>
         <br />
@@ -167,11 +167,11 @@ const App = () => {
             value={r7}
             onChange={(e) => setR7(e.target.value)}
           >
-            <option value="1.0">매우 그렇다</option>
-            <option value="2.0">그렇다</option>
-            <option value="3.0">보통이다</option>
-            <option value="4.0">아니다</option>
-            <option value="5.0">전혀 아니다</option>
+            <option value={1.0}>매우 그렇다</option>
+            <option value={2.0}>그렇다</option>
+            <option value={3.0}>보통이다</option>
+            <option value={4.0}>아니다</option>
+            <option value={5.0}>전혀 아니다</option>
           </select>
         </label>
         <br />
@@ -181,11 +181,11 @@ const App = () => {
             value={r8}
             onChange={(e) => setR8(e.target.value)}
           >
-            <option value="1.0">매우 그렇다</option>
-            <option value="2.0">그렇다</option>
-            <option value="3.0">보통이다</option>
-            <option value="4.0">아니다</option>
-            <option value="5.0">전혀 아니다</option>
+            <option value={1.0}>매우 그렇다</option>
+            <option value={2.0}>그렇다</option>
+            <option value={3.0}>보통이다</option>
+            <option value={4.0}>아니다</option>
+            <option value={5.0}>전혀 아니다</option>
           </select>
         </label>
         <br />
@@ -196,11 +196,11 @@ const App = () => {
             value={r9}
             onChange={(e) => setR9(e.target.value)}
           >
-            <option value="1.0">매우 그렇다</option>
-            <option value="2.0">그렇다</option>
-            <option value="3.0">보통이다</option>
-            <option value="4.0">아니다</option>
-            <option value="5.0">전혀 아니다</option>
+            <option value={1.0}>매우 그렇다</option>
+            <option value={2.0}>그렇다</option>
+            <option value={3.0}>보통이다</option>
+            <option value={4.0}>아니다</option>
+            <option value={5.0}>전혀 아니다</option>
           </select>
         </label>
         <br />
@@ -210,11 +210,11 @@ const App = () => {
             value={r10}
             onChange={(e) => setR10(e.target.value)}
           >
-            <option value="1.0">매우 그렇다</option>
-            <option value="2.0">그렇다</option>
-            <option value="3.0">보통이다</option>
-            <option value="4.0">아니다</option>
-            <option value="5.0">전혀 아니다</option>
+            <option value={1.0}>매우 그렇다</option>
+            <option value={2.0}>그렇다</option>
+            <option value={3.0}>보통이다</option>
+            <option value={4.0}>아니다</option>
+            <option value={5.0}>전혀 아니다</option>
           </select>
         </label>
         <br />
@@ -225,11 +225,11 @@ const App = () => {
             value={r11}
             onChange={(e) => setR11(e.target.value)}
           >
-            <option value="1.0">매우 그렇다</option>
-            <option value="2.0">그렇다</option>
-            <option value="3.0">보통이다</option>
-            <option value="4.0">아니다</option>
-            <option value="5.0">전혀 아니다</option>
+            <option value={1.0}>매우 그렇다</option>
+            <option value={2.0}>그렇다</option>
+            <option value={3.0}>보통이다</option>
+            <option value={4.0}>아니다</option>
+            <option value={5.0}>전혀 아니다</option>
           </select>
         </label>
         <br />
@@ -239,11 +239,11 @@ const App = () => {
             value={r12}
             onChange={(e) => setR12(e.target.value)}
           >
-            <option value="1.0">매우 그렇다</option>
-            <option value="2.0">그렇다</option>
-            <option value="3.0">보통이다</option>
-            <option value="4.0">아니다</option>
-            <option value="5.0">전혀 아니다</option>
+            <option value={1.0}>매우 그렇다</option>
+            <option value={2.0}>그렇다</option>
+            <option value={3.0}>보통이다</option>
+            <option value={4.0}>아니다</option>
+            <option value={5.0}>전혀 아니다</option>
           </select>
         </label>
         <br />
