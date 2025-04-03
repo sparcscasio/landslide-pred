@@ -30,6 +30,8 @@ const App = () => {
     const emotional = (r8+r7) * 50;
     const self_ = (r9+r10) * 50;
     const communication = (r11+r12) * 50;
+
+    console.log(vision, auditory, physical, emotional, self_, communication);
     
     setLoading(true);
     try {
