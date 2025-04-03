@@ -20,7 +20,7 @@ const App = () => {
   const minRes = 0.4205267131328583;
   const maxRes = 26.24397850036621;
 
-  const apiUrl = "https://4062-34-173-86-218.ngrok-free.app/calc";
+  const apiUrl = "https://e907-34-172-72-200.ngrok-free.app/calc";
 
   const handleCalculate = async () => {
 
