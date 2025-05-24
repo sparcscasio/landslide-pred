@@ -28,6 +28,28 @@
   color: #61dafb;
 }
 
+.calc-button {
+  padding: 5px;
+  background-color: #D3F8AB;
+  color: #107F4F;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 700;
+  transition: background-color 0.2s ease;
+}
+
+.calc-button:hover {
+  background-color: #C0EF92; /* hover 시 색상 */
+}
+
+.calc-button:disabled {
+  background-color: #eee;
+  color: #aaa;
+  cursor: not-allowed;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
