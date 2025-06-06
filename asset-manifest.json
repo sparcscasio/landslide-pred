@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/landslide-pred/static/css/main.64dec510.css",
-    "main.js": "/landslide-pred/static/js/main.35bc4669.js",
+    "main.js": "/landslide-pred/static/js/main.d79cfd57.js",
     "static/js/488.9c92ff38.chunk.js": "/landslide-pred/static/js/488.9c92ff38.chunk.js",
     "index.html": "/landslide-pred/index.html",
     "main.64dec510.css.map": "/landslide-pred/static/css/main.64dec510.css.map",
-    "main.35bc4669.js.map": "/landslide-pred/static/js/main.35bc4669.js.map",
+    "main.d79cfd57.js.map": "/landslide-pred/static/js/main.d79cfd57.js.map",
     "488.9c92ff38.chunk.js.map": "/landslide-pred/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64dec510.css",
-    "static/js/main.35bc4669.js"
+    "static/js/main.d79cfd57.js"
   ]
 }
