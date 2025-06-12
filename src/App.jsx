@@ -22,7 +22,7 @@ const App = () => {
   const [perp2, setPerp2] = useState(1.0);
   const [perp3, setPerp3] = useState(1.0);
 
-  const apiUrl = "https://be0e-35-231-81-149.ngrok-free.app//predict";
+  const apiUrl = "https://03e5-35-204-114-125.ngrok-free.app/predict";
 
   const handleCalculate = async () => {
     console.log(`${apiUrl}/${parseFloat(humd1).toFixed(2)}&${parseFloat(temp1).toFixed(2)}&${parseFloat(perp1).toFixed(2)}&${parseFloat(wind1).toFixed(2)}/${parseFloat(humd2).toFixed(2)}&${parseFloat(temp2).toFixed(2)}&${parseFloat(perp2).toFixed(2)}&${parseFloat(wind2).toFixed(2)}/${parseFloat(humd3).toFixed(2)}&${parseFloat(temp3).toFixed(2)}&${parseFloat(perp3).toFixed(2)}&${parseFloat(wind3).toFixed(2)}/${reg}`);
